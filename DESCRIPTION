@@ -1,6 +1,6 @@
 Package: usdoj
 Title: For Accessing U.S. Department of Justice (DOJ) Open Data
-Version: 1.1.1
+Version: 1.1.2
 Authors@R: 
     person("Steph", "Buongiorno", , "steph.buon@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6965-0787"))
@@ -14,7 +14,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-03-23 15:54:22 UTC; steph
-Author: Steph Buongiorno [aut, cre] (<https://orcid.org/0000-0002-6965-0787>)
+Packaged: 2025-05-14 14:48:35 UTC; steph
+Author: Steph Buongiorno [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-6965-0787>)
 Repository: CRAN
-Date/Publication: 2025-03-24 09:40:02 UTC
+Date/Publication: 2025-05-14 15:00:02 UTC

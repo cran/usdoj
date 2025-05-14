@@ -1,8 +1,8 @@
-fa9a4f1ca279457482e11600e6e2520b *DESCRIPTION
+0b8d3057fa12eebccdd1e15159eef122 *DESCRIPTION
 0a0fe75bba004d34effe28e928da27f2 *LICENSE
 b9a66c5e94092eaa8a89c1148c1e41ca *NAMESPACE
-f58874f4ea89ef6765128620dc8f5a35 *R/doj_blog_entries.R
-a0444e9edbebd8e3e07b6dc953757485 *R/doj_press_releases.R
-3679a5872ff06bba91cd749eb0156817 *R/utils.R
-7be97d021ec1e471cf8074131a100ef6 *man/doj_blog_entries.Rd
-abbb7376525ca70f1ffc31cc89694cfc *man/doj_press_releases.Rd
+ec70a9f10a59e07ecd8d78758f9ccbd0 *R/doj_blog_entries.R
+e273d4bd92158f3546f9831db8cb7ed6 *R/doj_press_releases.R
+b3fc3424508774fbb270546b63160192 *R/utils.R
+3385c2a2c73d49974d027c8fe8fe8dba *man/doj_blog_entries.Rd
+478de75e1fc6d21fd1092f32723bc52c *man/doj_press_releases.Rd
